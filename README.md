@@ -57,7 +57,6 @@ An end-to-end data engineering pipeline designed to ingest, validate, and reconc
 * Python 3.9+
 * Required packages:
     pip install pandas
-  (Note: sqlite3 and json are built directly into standard Python).
 
 ## How to Run
 
